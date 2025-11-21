@@ -1147,5 +1147,5 @@ ORDER BY TOTAL_ACCIONES DESC;
 **Fecha:** 21 de Noviembre de 2025  
 **Versión:** 1.0  
 **Relacionado con:**
-- PropuestaFinal_GestionUsuarios_RASMIA.md
-- DiagramaUML_GestionUsuarios_RASMIA.md
+- PropuestaFinal_GestionUsuarios_INDAR.md
+- DiagramaUML_GestionUsuarios_INDAR.md
