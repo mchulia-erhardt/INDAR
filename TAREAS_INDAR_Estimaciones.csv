@@ -1,0 +1,68 @@
+Clave,Tipo,Epic,Resumen,Estado,Tiempo Estimado (días)
+INDAR-60,Epic,,ARRANQUE DE PROYECTO,Tareas por hacer,5.0
+INDAR-61,Tarea,INDAR-60,INDAR: Petición esquema permisos,Finalizada,0.5
+INDAR-62,Tarea,INDAR-60,INDARBK: Petición esquema permisos,Finalizada,0.5
+INDAR-63,Tarea,INDAR-60,RUIAR: Petición esquema permisos,Tareas por hacer,0.5
+INDAR-64,Tarea,INDAR-60,INDAR: Crear proyecto base,Finalizada,1.5
+INDAR-65,Tarea,INDAR-60,INDARBK: Crear proyecto base,Finalizada,1.5
+INDAR-66,Tarea,INDAR-60,RUIAR: Crear proyecto base,Tareas por hacer,1.5
+INDAR-1,Epic,,USUARIOS,Tareas por hacer,32.0
+INDAR-14,Tarea,INDAR-1,Crear tablas BD,En curso,3.0
+INDAR-15,Tarea,INDAR-1,Insertar datos de tipo perfil,Tareas por hacer,1.0
+INDAR-16,Tarea,INDAR-1,Generar clases java,Tareas por hacer,4.0
+INDAR-17,Tarea,INDAR-1,Generar clases angular,Tareas por hacer,4.0
+INDAR-18,Tarea,INDAR-1,Generar servicios de consulta a nuevas tablas,Tareas por hacer,5.0
+INDAR-19,Tarea,INDAR-1,Generar visual para mostrar perfiles que contiene el NIF de la persona,Tareas por hacer,5.0
+INDAR-20,Tarea,INDAR-1,Pantalla mantenimiento de usuarios y entidades,Tareas por hacer,10.0
+INDAR-2,Epic,,MENÚ (header),Tareas por hacer,9.0
+INDAR-21,Tarea,INDAR-2,Crear tablas BD,Tareas por hacer,2.0
+INDAR-22,Tarea,INDAR-2,Generar clases java,Tareas por hacer,2.0
+INDAR-23,Tarea,INDAR-2,Generar clases angular,Tareas por hacer,2.0
+INDAR-24,Tarea,INDAR-2,Insertar datos de las diferentes entradas de menú en BD y permisos de visibilidad a cada tipo de perfil,Tareas por hacer,3.0
+INDAR-3,Epic,,PERFIL,Tareas por hacer,5.0
+INDAR-25,Tarea,INDAR-3,Generar clases angular y servicios de consulta al back,Tareas por hacer,5.0
+INDAR-4,Epic,,PERMISOS USUARIO,Tareas por hacer,8.0
+INDAR-26,Tarea,INDAR-4,Configurar mediante la tabla de BD permisos de cada usuario,Tareas por hacer,3.0
+INDAR-27,Tarea,INDAR-4,Realizar desarrollo para contemplar los permisos de cada usuario y se apliquen visualmente,Tareas por hacer,5.0
+INDAR-5,Epic,,PANTALLAS: INICIAL,Tareas por hacer,5.0
+INDAR-28,Tarea,INDAR-5,Crear pantalla inicial,Tareas por hacer,5.0
+INDAR-6,Epic,,PANTALLAS: MAESTROS ENTIDADES,Tareas por hacer,20.0
+INDAR-31,Tarea,INDAR-6,OCAS,Tareas por hacer,5.0
+INDAR-32,Tarea,INDAR-6,Titulares,Tareas por hacer,5.0
+INDAR-33,Tarea,INDAR-6,Empresas,Tareas por hacer,5.0
+INDAR-34,Tarea,INDAR-6,Servicio Central,Tareas por hacer,5.0
+INDAR-7,Epic,,PANTALLAS: ALTA EXPEDIENTE,Tareas por hacer,42.0
+INDAR-35,Tarea,INDAR-7,Búsqueda ubicación,Tareas por hacer,5.0
+INDAR-36,Tarea,INDAR-7,Búsqueda instalación,Tareas por hacer,5.0
+INDAR-37,Tarea,INDAR-7,Creación instalación,Tareas por hacer,8.0
+INDAR-38,Tarea,INDAR-7,Solicitud número instalación,Tareas por hacer,3.0
+INDAR-39,Tarea,INDAR-7,Datos expediente,Tareas por hacer,5.0
+INDAR-40,Tarea,INDAR-7,Datos ambito,Tareas por hacer,4.0
+INDAR-41,Tarea,INDAR-7,Instalaciones / Equipos,Tareas por hacer,6.0
+INDAR-42,Tarea,INDAR-7,Documentación,Tareas por hacer,6.0
+INDAR-8,Epic,,PANTALLAS: LISTADO EXPEDIENTES,Tareas por hacer,15.0
+INDAR-43,Tarea,INDAR-8,Búsqueda expedientes,Tareas por hacer,8.0
+INDAR-44,Tarea,INDAR-8,Botones acciones,Tareas por hacer,7.0
+INDAR-9,Epic,,PANTALLAS: DETALLE EXPEDIENTE,Tareas por hacer,35.0
+INDAR-45,Tarea,INDAR-9,Visualización documentos,Tareas por hacer,8.0
+INDAR-46,Tarea,INDAR-9,Añadir documentos,Tareas por hacer,7.0
+INDAR-47,Tarea,INDAR-9,Trasladar expediente,Tareas por hacer,5.0
+INDAR-48,Tarea,INDAR-9,Añadir informe,Tareas por hacer,5.0
+INDAR-49,Tarea,INDAR-9,Resolución expediente,Tareas por hacer,10.0
+INDAR-10,Epic,,PANTALLAS: DETALLE INSTALACIÓN,Tareas por hacer,28.0
+INDAR-50,Tarea,INDAR-10,Visualizar datos expedientes relacionados,Tareas por hacer,8.0
+INDAR-51,Tarea,INDAR-10,Visualizar datos instalación,Tareas por hacer,8.0
+INDAR-52,Tarea,INDAR-10,Modificar datos instalación,Tareas por hacer,6.0
+INDAR-53,Tarea,INDAR-10,Enviar notificación (mail),Tareas por hacer,6.0
+INDAR-11,Epic,,PANTALLAS: CALENDARIO,Tareas por hacer,15.0
+INDAR-54,Tarea,INDAR-11,Calendario vista mensual,Tareas por hacer,10.0
+INDAR-55,Tarea,INDAR-11,Visualizar expedientes en calendario,Tareas por hacer,5.0
+INDAR-12,Epic,,PANTALLAS: MIS NOTIFICACIONES,Tareas por hacer,10.0
+INDAR-56,Tarea,INDAR-12,Pantalla notificaciones,Tareas por hacer,10.0
+INDAR-13,Epic,,PANTALLAS: ESTADÍSTICAS,Tareas por hacer,20.0
+INDAR-57,Tarea,INDAR-13,Creación de gráficos,Tareas por hacer,12.0
+INDAR-58,Tarea,INDAR-13,Exportación de datos,Tareas por hacer,8.0
+INDAR-59,Epic,,INTEGRACIÓN EXTERNA,Tareas por hacer,25.0
+INDAR-67,Tarea,INDAR-59,Integración con RII,Tareas por hacer,10.0
+INDAR-68,Tarea,INDAR-59,Integración con CCSV,Tareas por hacer,8.0
+INDAR-69,Tarea,INDAR-59,Integración con MFE (autenticación),Tareas por hacer,7.0
